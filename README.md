@@ -1,4 +1,4 @@
-# Employee-Tracker
+# Employee-Tracker-Database
 Welcome to the Employee Tracker, where we streamline management tasks for your business needs.
 
 About Employee Tracker
